@@ -1,0 +1,24 @@
+{
+  "overview": "A modern personal portfolio website for freelance web designer Akela Bhai. Features a dark theme with gradient accents, smooth animations, and a clean premium look across hero, about, services, portfolio, testimonials, and contact sections.",
+  "features": [
+    "Full-viewport hero with name, tagline, and CTA button",
+    "About section with profile image and bio",
+    "Services grid with 4 service cards and hover effects",
+    "Portfolio showcase with project cards in a modern grid layout",
+    "Client testimonials with photos, names, and feedback",
+    "Contact form with email, phone, and social media links",
+    "Sticky navigation with mobile hamburger menu",
+    "Dark theme with gradient accents and smooth animations throughout",
+    "Fully mobile responsive design"
+  ],
+  "category": "portfolio",
+  "tags": [
+    "portfolio",
+    "web-design",
+    "dark-theme",
+    "freelance",
+    "personal-brand",
+    "responsive"
+  ],
+  "last_updated": "2026-04-14T22:54:08.291Z"
+}
